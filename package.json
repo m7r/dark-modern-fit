@@ -1,0 +1,21 @@
+{
+  "name": "dark-minimalist",
+  "displayName": "Dark Minimalist",
+  "description": "A borderless mix of VSCode theme Default Dark+ and Dark Modern",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Minimalist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-minimalist-color-theme.json"
+      }
+    ]
+  }
+}

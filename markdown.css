@@ -1,0 +1,27 @@
+[data-color-mode=light][data-light-theme=dark],
+[data-color-mode=dark][data-dark-theme=dark],
+.vscode-body.vscode-light [data-color-mode=auto][data-light-theme=dark],
+.vscode-body.vscode-dark [data-color-mode=auto][data-dark-theme=dark],
+[data-color-mode=light][data-light-theme=dark_dimmed],
+[data-color-mode=dark][data-dark-theme=dark_dimmed],
+.vscode-body.vscode-light [data-color-mode=auto][data-light-theme=dark_dimmed],
+.vscode-body.vscode-dark [data-color-mode=auto][data-dark-theme=dark_dimmed] {
+  --bgColor-default: #1e1e1e;
+  --bgColor-muted: #2b2e34;
+}
+
+@media (prefers-color-scheme: light) {
+  [data-color-mode='system'][data-light-theme=dark],
+  [data-color-mode='system'][data-light-theme=dark_dimmed] {
+    --bgColor-default: #1e1e1e;
+    --bgColor-muted: #2b2e34;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  [data-color-mode='system'][data-dark-theme=dark],
+  [data-color-mode='system'][data-dark-theme=dark_dimmed] {
+    --bgColor-default: #1e1e1e;
+    --bgColor-muted: #2b2e34;
+  }
+}

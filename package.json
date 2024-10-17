@@ -2,9 +2,22 @@
   "name": "dark-modern-fit",
   "displayName": "Dark Modern Fit",
   "description": "A variant of the `Default Dark+` theme",
+  "keywords": [
+    "theme",
+    "fit",
+    "minimal",
+    "reduce",
+    "dark",
+    "dark+",
+    "macos"
+  ],
+  "package": "m7r",
+  "publisher": "m7r",
   "icon": "icon.png",
   "version": "0.0.1",
   "license": "MIT",
+  "repository": "github:m7r/vscode-theme-dark-modern-fit",
+  "bugs": "https://github.com/m7r/vscode-theme-dark-modern-fit/issues",
   "engines": {
     "vscode": "^1.94.0"
   },

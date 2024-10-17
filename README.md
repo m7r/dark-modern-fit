@@ -32,3 +32,7 @@ Edit settings.json to blend the background for dark and dark dimmed theme
     "https://cdn.jsdelivr.net/gh/m7r/vscode-theme-dark-minimalist@preview-github/markdown.css"
 ],
 ```
+
+### macOS Terminal.app theme
+
+Download [theme](dark-minimalist.terminal) and import into macOS Terminal.app settings.

@@ -1,4 +1,4 @@
-# VSCode Theme Dark Minimalist
+# VSCode Theme Dark Modern Fit
 
 ![Preview](assets/preview.png)
 
@@ -29,10 +29,10 @@ Edit settings.json to blend the background for dark and dark dimmed theme
 
 ```json
 "markdown.styles": [
-    "https://cdn.jsdelivr.net/gh/m7r/vscode-theme-dark-minimalist@preview-github/markdown.css"
+    "https://cdn.jsdelivr.net/gh/m7r/dark-modern-fit@preview-github/markdown.css"
 ],
 ```
 
 ### macOS Terminal.app theme
 
-Download [theme](dark-minimalist.terminal) and import into macOS Terminal.app settings.
+Download [theme](https://cdn.jsdelivr.net/gh/m7r/dark-modern-fit@terminal/dark-modern-fit.terminal) and import in macOS Terminal.app settings.

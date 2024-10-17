@@ -1,7 +1,7 @@
 {
-  "name": "dark-minimalist",
-  "displayName": "Dark Minimalist",
-  "description": "A borderless mix of VSCode theme Default Dark+ and Dark Modern",
+  "name": "dark-modern-fit",
+  "displayName": "Dark Modern Fit",
+  "description": "A variant of the `Default Dark+` theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Minimalist",
+        "label": "Dark Modern Fit",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-minimalist-color-theme.json"
+        "path": "./themes/dark-modern-fit-color-theme.json"
       }
     ]
   }

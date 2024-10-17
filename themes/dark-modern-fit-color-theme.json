@@ -47,7 +47,7 @@
 		"sash.hoverBorder": "#11609c",
 		"settings.focusedRowBorder": "#11609c",
 		"sideBarActivityBarTop.border": "#252526",
-		"sideBarSectionHeader.foreground": "#ffffffcc",
+		"sideBarTitle.foreground": "#ffffff88",
 		"sideBarSectionHeader.background": "#252526",
 		"sideBarSectionHeader.border": "#38383a",
 		"sideBarStickyScroll.shadow": "#181818",

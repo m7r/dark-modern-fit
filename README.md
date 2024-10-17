@@ -2,15 +2,13 @@
 
 ![Preview](assets/preview.png)
 
-A variant of the VSCode standard theme Dark+ with fewer distractions from the code area.
+A variant of the "Dark+" theme with a strong focus on the code area. Other distractions fade into the background.
 
-Minimalist means fewer borders, fewer color and background variants but also a little more, comments and function parameters now use an italic font variant.
+Whether VSCode, Markdown Github Preview Plugin, Terminal Colors or Edge and macOS Finder windows, everything just fits.
 
 ## Optional Configuration
 
-### Font Settings
-
-Recommended values ​​for settings.json
+### Suggested Settings
 
 ```json
 "editor.fontFamily": "'JetBrains Mono', monospace",
@@ -25,7 +23,7 @@ Font informations and download of [JetBrains Mono](https://www.jetbrains.com/lp/
 
 ### Markdown Gitup Preview Extention
 
-Edit settings.json to blend the background for dark and dark dimmed theme
+Install [extention](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) and optional add css.
 
 ```json
 "markdown.styles": [

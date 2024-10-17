@@ -2,4 +2,7 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+dark-modern-fit.terminal
+icon.svg
+markdown.css
 assets

@@ -26,6 +26,8 @@
 		"editorGutter.deletedBackground": "#702020",
 		"editorGutter.foldingControlForeground": "#b6bbc2",
 		"editorGutter.modifiedBackground": "#10546c",
+		"editorIndentGuide.activeBackground1": "#6E768170",
+    "editorIndentGuide.background1": "#6E768125",
 		"editorLineNumber.foreground": "#6E7681",
 		"editorOverviewRuler.border": "#101010",
 		"editorStickyScroll.shadow": "#181818",

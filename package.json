@@ -14,10 +14,10 @@
   "package": "m7r",
   "publisher": "m7r",
   "icon": "icon.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
-  "repository": "github:m7r/vscode-theme-dark-modern-fit",
-  "bugs": "https://github.com/m7r/vscode-theme-dark-modern-fit/issues",
+  "repository": "github:m7r/dark-modern-fit",
+  "bugs": "https://github.com/m7r/dark-modern-fit/issues",
   "engines": {
     "vscode": "^1.94.0"
   },
